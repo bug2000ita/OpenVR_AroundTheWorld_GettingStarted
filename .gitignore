@@ -61,3 +61,7 @@ sysinfo.txt
 *.apk
 
 *.unitypackage
+VR_AroundWorld_GettingStarted/Library/UnityAssemblies/UnityEngine.Advertisements.dll
+VR_AroundWorld_GettingStarted/Library/UnityAssemblies/UnityEngine.Advertisements.xml
+VR_AroundWorld_GettingStarted/Library/UnityAssemblies/UnityEngine.Purchasing.dll
+VR_AroundWorld_GettingStarted/Library/UnityAssemblies/UnityEngine.Purchasing.xml
